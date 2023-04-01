@@ -1,0 +1,8 @@
+var phone = "Samsung";
+var model = "A41";
+var price = 249.99;
+var shop = "O2";
+var carrier = "Vodafone";
+var ram = 8 + "GB";
+var processor = "Octa Core";
+var storage = 64 + "GB"
